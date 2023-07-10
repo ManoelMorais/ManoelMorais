@@ -2,7 +2,7 @@
 
 I´m Manoel this is my page 👻🐧
 
-I want to become a full stack developed 👻🐧
+I want to become a full stack developer 👻🐧
 <!--
 **ManoelMorais/ManoelMorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
