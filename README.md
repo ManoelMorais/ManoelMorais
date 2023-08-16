@@ -16,6 +16,7 @@ I want to become a full stack developer 👻🐧
 
 ## My Stats:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ManoelMorais&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelMorais&layout=compact)
 
 
 
