@@ -15,5 +15,5 @@ I want to become a full stack developer 👻🐧
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## My Stats:
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ManoelMorais&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelMorais&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManoelMorais&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelMorais&langs_count=8)
