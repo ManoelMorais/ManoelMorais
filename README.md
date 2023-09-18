@@ -7,7 +7,7 @@ I want to become a full stack developer 👻🐧
 ## PortFólio
 https://manoelmorais-2023.vercel.app/
 
-## Technologies I use and am learning to use:
+## Technologies I use:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
