@@ -4,8 +4,6 @@ I´m Manoel this is my page 👻🐧
 
 I want to become a full stack developer 👻🐧
 
-## PortFólio
-https://manoelmorais-2023.vercel.app/
 
 ## Technologies I use:
 
